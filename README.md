@@ -1,2 +1,3 @@
-# the-mayors-office
-City-builder simulation game
+# The Mayor's Office
+
+City-building simulation game
