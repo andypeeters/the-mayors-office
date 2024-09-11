@@ -205,6 +205,7 @@ PublishScripts/
 # NuGet v3's project.json files produces more ignorable files
 *.nuget.props
 *.nuget.targets
+.nuget/
 
 # Microsoft Azure Build Output
 csx/
@@ -222,6 +223,7 @@ _pkginfo.txt
 *.appx
 *.appxbundle
 *.appxupload
+*DS_Store
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
@@ -396,3 +398,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+*.sln.ide
